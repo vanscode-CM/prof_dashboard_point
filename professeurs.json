@@ -26,14 +26,14 @@
     },
     {
       "nom": "M. BEKOU",
-      "matiere": "GE",
+      "matiere": "GE1",
       "points_utilises_mois": 0,
       "points_utilises_semaine": 0,
       "couleur": "#ef4444"
     },
     {
       "nom": "M. ZIADA",
-      "matiere": "GE",
+      "matiere": "GE2",
       "points_utilises_mois": 0,
       "points_utilises_semaine": 0,
       "couleur": "#8b5cf6"
