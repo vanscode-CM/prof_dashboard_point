@@ -1,0 +1,42 @@
+{
+  "derniere_mise_a_jour": "2025-07-20 14:00",
+  "quota_mensuel": 300,
+  "quota_hebdomadaire": 75,
+  "professeurs": [
+    {
+      "nom": "M. TEJIOGNI",
+      "matiere": "GL1",
+      "points_utilises_mois": 0,
+      "points_utilises_semaine": 0,
+      "couleur": "#3b82f6"
+    },
+    {
+      "nom": "M. YMELE",
+      "matiere": "GL2",
+      "points_utilises_mois": 0,
+      "points_utilises_semaine": 0,
+      "couleur": "#f59e0b"
+    },
+    {
+      "nom": "M. FADJIL",
+      "matiere": "GR",
+      "points_utilises_mois": 0,
+      "points_utilises_semaine": 0,
+      "couleur": "#10b981"
+    },
+    {
+      "nom": "M. BEKOU",
+      "matiere": "GE",
+      "points_utilises_mois": 0,
+      "points_utilises_semaine": 0,
+      "couleur": "#ef4444"
+    },
+    {
+      "nom": "M. ZIADA",
+      "matiere": "GE",
+      "points_utilises_mois": 0,
+      "points_utilises_semaine": 0,
+      "couleur": "#8b5cf6"
+    }
+  ]
+}
