@@ -1,13 +1,13 @@
 {
-  "derniere_mise_a_jour": "2025-08-06 02:34",
+  "derniere_mise_a_jour": "2025-08-06 02:40",
   "quota_mensuel": 300,
   "quota_hebdomadaire": 75,
   "professeurs": [
     {
       "nom": "M. TEJIOGNI",
       "matiere": "GL1",
-      "points_utilises_mois": 0,
-      "points_utilises_semaine": 0,
+      "points_utilises_mois": 10,
+      "points_utilises_semaine": 5,
       "couleur": "#3b82f6"
     },
     {
