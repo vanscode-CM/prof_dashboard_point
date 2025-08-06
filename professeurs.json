@@ -1,5 +1,5 @@
 {
-  "derniere_mise_a_jour": "2025-08-06 02:29",
+  "derniere_mise_a_jour": "2025-08-06 02:32",
   "quota_mensuel": 300,
   "quota_hebdomadaire": 75,
   "professeurs": [
@@ -37,6 +37,13 @@
       "points_utilises_mois": 0,
       "points_utilises_semaine": 0,
       "couleur": "#8b5cf6"
+    },
+    {
+      "nom": "SIMO",
+      "matiere": "INFO",
+      "points_utilises_mois": 0,
+      "points_utilises_semaine": 0,
+      "couleur": "#07cde7ff"
     }
   ]
 }
